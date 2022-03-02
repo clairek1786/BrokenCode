@@ -1,6 +1,6 @@
 #!/bin/bash
-echo Hello, today is $(date)
+echo Hello, today is $date
 echo The directory you are in is:
-pwd
+cwd
 echo The files here are:
 ls
