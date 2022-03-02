@@ -1,4 +1,3 @@
-
 import random
 
 print("Think of a number between 1 and 10")
